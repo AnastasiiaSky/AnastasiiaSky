@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there, I'm Anastasiia!
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)"/>
+</div>
 
 <!--
 **AnastasiiaSky/AnastasiiaSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
