@@ -4,7 +4,11 @@
 
 
 <div id="header" align="center">
-  ## Hi there, I'm Anastasiia!
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/> Hi there, I'm Anastasiia! <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
 
