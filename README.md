@@ -8,11 +8,6 @@ Hi there, I'm Anastasiia!
 </div>
 
 
-
-
-
-
-
 <!--
 **AnastasiiaSky/AnastasiiaSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
