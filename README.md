@@ -20,11 +20,7 @@ Hi there, I'm Anastasiia!
   
 
 
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnastasiiaSky&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnastasiiaSky&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnastasiiaSky&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-AnastasaiiaSky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
