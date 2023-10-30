@@ -8,7 +8,7 @@ Hi there, I'm Anastasiia!
 </div>
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AnastasiiaSky&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AnastasiiaSky&theme=dark)](https://github.com/AnastasiiaSky/leetcode-stats)
 
 
 <!--
