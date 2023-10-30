@@ -8,6 +8,9 @@ Hi there, I'm Anastasiia!
 </div>
 
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AnastasiiaSky&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+
 <!--
 **AnastasiiaSky/AnastasiiaSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
